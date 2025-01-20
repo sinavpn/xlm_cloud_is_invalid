@@ -1,4 +1,4 @@
-# xlm_cloud_is_invalid
+# xlm_cloud
 
 XLM 加速器各位用户注意：\
 XLM 加速器团队已经确认跑路，客服已经彻底不回邮件，勿再继续订阅。\
